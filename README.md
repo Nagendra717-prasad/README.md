@@ -6,26 +6,33 @@
 <table>
 <tr>
 <td width="50%" align="center">
-<h3>Programming Languages</h3>
- <img src="https://skillicons.dev/icons?i=python,c,java,js" />
-<br/><br/>
+<h3>💻 Programming Languages</h3>
+<div style="display:flex;justify-content:center;gap:10px;align-items:center;">
+  <img src="https://skillicons.dev/icons?i=python,c,java,js" />
+</div>
 </td>
 <td width="50%" align="center">
-   <h3>Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,fastapi,spring,tailwind" />
+<h3>📚 Frameworks & Libraries</h3>
+<div style="display:flex;justify-content:center;gap:10px;align-items:center;">
+  <img src="https://skillicons.dev/icons?i=react,fastapi,spring,tailwind" />
+</div>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
-  <h3>Databases</h3>
-    <img src="https://img.shields.io/badge/H2-003545?style=for-the-badge&logo=h2&logoColor=white" />
-    <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-<br/><br/>
+<h3>🗄️ Databases</h3>
+<div style="display:flex;justify-content:center;gap:10px;align-items:center;">
+  <img src="https://img.shields.io/badge/H2-003545?style=for-the-badge&logo=h2&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</div>
 </td>
 <td width="50%" align="center">
-    <h3>Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,intellij" />
+<h3>🧰 Tools & Platforms</h3>
+<div style="display:flex;justify-content:center;gap:10px;align-items:center;">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,intellij" />
+</div>
 </td>
 </tr>
 </table>
 </p>
+
