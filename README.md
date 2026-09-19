@@ -25,10 +25,10 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </div>
 </td>
-<td width="50%" align="center" style="padding:25px;vertical-align:middle;">
-<h3>Tools & Platforms</h3>
+<td width="50%" style="padding:25px;vertical-align:middle;">
+<h3 style="margin-left:20px;">Tools & Platforms</h3>
 <div style="display:flex;justify-content:center;gap:10px;align-items:center;">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,intellij" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </div>
 </td>
 </tr>
