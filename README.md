@@ -22,7 +22,7 @@
 <td width="50%" align="center">
 <h3>🗄️ Databases</h3>
 <div style="display:flex;justify-content:center;gap:10px;align-items:center;">
-  <img src="https://img.shields.io/badge/H2-003545?style=for-the-badge&logo=h2&logoColor=white" />
+  <img src="https://img.shields.io/badge/H2-003545?style=for-the-badge&logo=h2&logoColor=white" style="height:40px;" />
   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </div>
 </td>
@@ -35,4 +35,5 @@
 </tr>
 </table>
 </p>
+
 
