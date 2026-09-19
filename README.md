@@ -6,13 +6,13 @@
 <table style="border-collapse:collapse;table-layout:fixed;width:80%;">
 <tr>
 <td width="50%" align="center" style="padding:25px;vertical-align:middle;">
-<h3>💻 Programming Languages</h3>
+<h3>Programming Languages</h3>
 <div style="display:flex;justify-content:center;gap:10px;align-items:center;">
   <img src="https://skillicons.dev/icons?i=python,c,java,js" />
 </div>
 </td>
 <td width="50%" align="center" style="padding:25px;vertical-align:middle;">
-<h3>📚 Frameworks & Libraries</h3>
+<h3>Frameworks & Libraries</h3>
 <div style="display:flex;justify-content:center;gap:10px;align-items:center;">
   <img src="https://skillicons.dev/icons?i=react,fastapi,spring,tailwind" />
 </div>
@@ -20,13 +20,13 @@
 </tr>
 <tr>
 <td width="50%" align="center" style="padding:25px;vertical-align:middle;">
-<h3>🗄️ Databases</h3>
+<h3>Databases</h3>
 <div style="display:flex;justify-content:center;gap:10px;align-items:center;">
   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </div>
 </td>
 <td width="50%" align="center" style="padding:25px;vertical-align:middle;">
-<h3>🧰 Tools & Platforms</h3>
+<h3>Tools & Platforms</h3>
 <div style="display:flex;justify-content:center;gap:10px;align-items:center;">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,intellij" />
 </div>
